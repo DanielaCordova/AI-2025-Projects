@@ -21,7 +21,7 @@ An enterprise-grade Copilot alternative that offers:
 - 🔁 Git auto-commit integration
 - ☁️ OpenAI GPT-4 or ⚙️ Ollama (local models)
 
-📄 [`README_mini_copilot.md`](./mini_copilot/README_mini_copilot.md)
+📄 [`README_mini_copilot.md`](./1.Copilot_Streamlight_App/v2/README_mini_copilot.md)
 
 ---
 
@@ -35,7 +35,7 @@ A fully **offline Retrieval-Augmented Generation (RAG)** system:
 
 Ideal for **legal**, **finance**, and **research** teams.
 
-📄 [`readme.md`](./rag_local/readme.md)
+📄 [`readme.md`](./2.Rag_Ollama/readme.md)
 
 ---
 
@@ -50,7 +50,7 @@ AI-powered static analysis tool with:
 
 Fits perfectly into **CI/CD** or **secure coding** pipelines.
 
-📄 [`README_code_quality.md`](./code_quality/README_code_quality.md)
+📄 [`README_code_quality.md`](./Code_Quality_Refactor_Assistant/README_code_quality.md)
 
 ---
 
