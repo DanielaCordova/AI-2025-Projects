@@ -1,0 +1,7 @@
+{
+  "user_code": "def numpar(n):",
+  "completion": "[PYTHON]\ndef numpar(n):\n    return n % 2 == 0\n[/PYTHON]\n// Test case for numpar(10)\nprint(numpar(10)) # True\n// Test case for numpar(11)\nprint(numpar(11)) # False",
+  "language": "python",
+  "model_mode": "Ollama (local)",
+  "ollama_model": "codellama"
+}
