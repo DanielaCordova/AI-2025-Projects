@@ -50,7 +50,7 @@ AI-powered static analysis tool with:
 
 Fits perfectly into **CI/CD** or **secure coding** pipelines.
 
-📄 [`README_code_quality.md`](./Code_Quality_Refactor_Assistant/README_code_quality.md)
+📄 [`README_code_quality.md`](./3.Code_Quality_Refactor_Assistant/README_code_quality.md)
 
 ---
 
